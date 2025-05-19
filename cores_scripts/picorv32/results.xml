@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1747679582" />
+    <testcase name="picorv32_test" classname="cocotb_test" file="/home/gabriel.gomes/mestrado/processor_ci_cosimulation/cores_scripts/picorv32/cocotb_test.py" lineno="116" time="0.048227787017822266" sim_time_ns="54.001" ratio_time="1119.7071924540987" />
+  </testsuite>
+</testsuites>

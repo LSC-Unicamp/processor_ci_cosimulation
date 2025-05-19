@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1745867396" />
+    <testcase name="tinyrisc_test" classname="cocotb_test" file="/home/gabriel.gomes/mestrado/Gabriel_trace/tinyriscv_trace/cocotb_test.py" lineno="52" time="0.00865793228149414" sim_time_ns="17.001" ratio_time="1963.6328221622516" />
+  </testsuite>
+</testsuites>

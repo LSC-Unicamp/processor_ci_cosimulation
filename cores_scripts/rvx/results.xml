@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1747681170" />
+    <testcase name="rvx_test" classname="cocotb_test" file="/home/gabriel.gomes/mestrado/processor_ci_cosimulation/cores_scripts/rvx/cocotb_test.py" lineno="122" time="0.017122745513916016" sim_time_ns="34.001" ratio_time="1985.7212718817009" />
+  </testsuite>
+</testsuites>
